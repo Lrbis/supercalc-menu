@@ -1,0 +1,25 @@
+#buttony {
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  width:100%;
+
+}
+
+h1 {
+text-align: center;
+}
+
+#menu {
+	background: white;
+	border:5px solid black;
+	width: 50%;
+}
+
+
+
+body 	{
+		background: #d6c80c;
+}
+
